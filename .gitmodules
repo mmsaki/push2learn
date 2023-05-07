@@ -1,0 +1,15 @@
+[submodule "greenfield-cmd"]
+	path = greenfield-cmd
+	url = https://github.com/mmsaki/greenfield-cmd.git
+[submodule "greenfield-contracts"]
+	path = greenfield-contracts
+	url = https://github.com/mmsaki/greenfield-contracts.git
+[submodule "node-deploy"]
+	path = node-deploy
+	url = https://github.com/bnb-chain/node-deploy.git
+[submodule "bsc"]
+	path = bsc
+	url = https://github.com/bnb-chain/bsc.git
+[submodule "node"]
+	path = node
+	url = https://github.com/bnb-chain/node.git
