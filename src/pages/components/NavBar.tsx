@@ -44,7 +44,7 @@ const NavBar = () => {
             )}
           >
             {/* title */}
-            <Button className="text-4xl font-normal uppercase">
+            <Button className="text-2xl font-normal uppercase">
               push <span className="text-[#EF1E23] font-bold">2</span> learn
               <ChevronDown size={32} />
             </Button>
