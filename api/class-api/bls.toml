@@ -1,0 +1,16 @@
+name = "class-api"
+version = "1.0.0"
+
+[deployment]
+permission = "private"
+nodes = 4
+
+[build]
+dir = "build"
+entry = "class-api_debug.wasm"
+command = "npm run build:debug"
+
+[build_release]
+dir = "build"
+entry = "class-api.wasm"
+command = "npm run build:release"

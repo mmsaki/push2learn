@@ -13,3 +13,9 @@
 [submodule "node"]
 	path = node
 	url = https://github.com/bnb-chain/node.git
+[submodule "greenfield-js-sdk"]
+	path = greenfield-js-sdk
+	url = https://github.com/mmsaki/greenfield-js-sdk.git
+[submodule "api/bnb-courses-api"]
+	path = api/bnb-courses-api
+	url = https://github.com/mmsaki/bnb-courses-api.git
