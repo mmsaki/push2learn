@@ -6,6 +6,7 @@ import ReactPlayer from 'react-player/lazy';
 const CourseView = () => {
   return (
     <div className="h-full w-full">
+      <h1 className="text-5xl">Video Course</h1>
       <ReactPlayer
         stopOnUnmount={false}
         controls={true}
